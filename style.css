@@ -4,6 +4,8 @@ h1 {
 }
 
 @media (prefers-color-scheme: dark) {
-    background-color: #EBE2D7;
-    color: #1E1915;
+    h1 {
+        background-color: #EBE2D7;
+        color: #1E1915;
+    }
 }
