@@ -1,0 +1,9 @@
+h1 {
+    background-color: #1E1915;
+    color: #FFFFFF;
+}
+
+@media (prefers-color-scheme: dark) {
+    background-color: #EBE2D7;
+    color: #1E1915;
+}
